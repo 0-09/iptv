@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn.geo.joj.sk/hls/family-360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" tvg-url="" group-title="Family",JOJ Family
+https://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" tvg-url="" group-title="Family",La Chaîne normande (LCN) (576p)
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="Spanish" tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg" tvg-url="" group-title="Family",Mi TV Televisión Clásica (480p)
+http://162.244.80.176:8081/abr/stream/playlist.m3u8
